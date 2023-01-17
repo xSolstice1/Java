@@ -1,9 +1,4 @@
 import java.util.Scanner;
-
- //TwoDps.java
-//Displays running total of numbers in lines of standard
-//input correct to two decimal places.
-//Uses an out of range number(<-100 or >100) to quit.
         
 public class Trunc{
     public static void main(String[] args) {
