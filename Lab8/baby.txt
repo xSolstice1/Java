@@ -1,0 +1,14 @@
+Name: Test Age: 1 Id: 29
+Baby Sound is Sick
+
+Name: Test Age: 1
+Baby Sound is Neutral
+
+Name: Peter Age: 2
+Baby Sound is Happy
+
+Name: Dave Age: 3
+Baby Sound is Neutral
+
+The average age of all babies is: 1.75
+There are identical babies.
